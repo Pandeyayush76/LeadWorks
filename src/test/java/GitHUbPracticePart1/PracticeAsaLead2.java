@@ -13,7 +13,7 @@ System.out.println("next year");
 System.out.println("yes");
 System.out.println("Tell me the state dear");
 System.out.println("up");
-System.out.println("See ur face to marry UP girl");
+System.out.println("See ur face to marry UP girls");
 
 	}
 
