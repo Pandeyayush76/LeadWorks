@@ -9,7 +9,7 @@ System.out.println("Nikhil should i search girl for u");
 System.out.println("yes");
 System.out.println("next year");
 System.out.println("yes");
-System.out.println("lala");
+System.out.println("lalas");
 
 	}
 
